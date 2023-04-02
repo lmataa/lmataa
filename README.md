@@ -13,4 +13,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lmataa/) 
 
 ### Projects
 
+1. [**Cellular Automaton Visualization**](https://github.com/lmataa/cellular_automata): A Jupyter notebook illustrating the concept of Wolfram's cellular automaton using Python and Matplotlib to generate an animated GIF.
+
 🔭 This space will soon be populated with exciting learning opportunities 🌱 and meticulously documented projects.
