@@ -11,7 +11,7 @@ I'm currently working as a Senior ML Engineer at Fujitsu's CoE of Advanced Analy
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lmataa/) or explore my Github repositories to learn more about my work.
 
-### Projects
+### Public Projects
 
 1. [**Cellular Automaton Visualization**](https://github.com/lmataa/cellular_automata): A Jupyter notebook illustrating the concept of Wolfram's cellular automaton using Python and Matplotlib to generate an animated GIF.
 
