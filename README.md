@@ -1,7 +1,6 @@
 ### Hi there :earth_africa:
 
 [![Linkedin](https://img.shields.io/badge/Linked-in-369?&logo=linkedin&logoColor=white&color=lightgreen)](https://www.linkedin.com/in/lmataa/) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lmataa.lmataa&right_color=lightgreen)
 
 I'm Luis Mata, a Scientific Engineer with expertise in AI research and development. My passion for graph theory, cognitive sciences, metaheuristics, and natural language has driven my career in developing cutting-edge AI solutions. Through my experience in academic research groups of international excellence and industry, I have gained a solid foundation in scientific methodology and the ability to analyze and synthesize complex information.
 
