@@ -1,17 +1,63 @@
-### Hi there :earth_africa:
+### Luis Mata · AI Research Engineer
 
-[![Linkedin](https://img.shields.io/badge/Linked-in-369?&logo=linkedin&logoColor=white&color=lightgreen)](https://www.linkedin.com/in/lmataa/) 
+[![Alinia AI](https://img.shields.io/badge/Alinia_AI-Research_Engineer-000000?style=flat-square)](https://alinia.ai)
+[![Keepcoding](https://img.shields.io/badge/Keepcoding-Professor-7C3AED?style=flat-square)](https://keepcoding.io)
+[![POTLATCH](https://img.shields.io/badge/POTLATCH-press-D97706?style=flat-square)](https://potlatch.press)
+[![oekk.photos](https://img.shields.io/badge/oekk-.photos-1f2937?style=flat-square)](https://oekk.photos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lmataa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lmataa/)
 
-I'm Luis Mata, a Scientific Engineer with expertise in AI research and development. My passion for graph theory, cognitive sciences, metaheuristics, and natural language has driven my career in developing cutting-edge AI solutions. Through my experience in academic research groups of international excellence and industry, I have gained a solid foundation in scientific methodology and the ability to analyze and synthesize complex information.
+AI Research Engineer working on the alignment and evaluation of large language models, with a focus on building regulatory guardrails for safe, compliant AI. I write, teach, and ship — and I care about making complex ideas clear, useful, and responsible in real contexts.
 
-My technical skills include data science, deep learning R&D, and model design using libraries and frameworks such as Scikit-Learn, Numpy, CUDA, Tensorflow, Pytorch, PySpark, NetworkX, and more. I'm also skilled in Linux, shell scripting, and network programming and have experience using boto3 to interface with AWS services. Additionally, I have experience using Docker, Airflow, Celery, MLFlow, and Kubernetes to build and deploy machine learning models and data pipelines.
+Interdisciplinary by training: graph theory, cognitive science, metaheuristics, and computational linguistics.
 
-I'm currently working as a Senior ML Engineer at Fujitsu's CoE of Advanced Analytics in Madrid, Spain, where I specialize in Graph Machine Learning Engineering. I'm always looking to collaborate on interesting AI projects and learn from other professionals in the field.
+---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lmataa/) or explore my Github repositories to learn more about my work.
+#### 🔬 Now
 
-### Public Projects
+- **[Alinia AI](https://alinia.ai)** — Research Engineer. Ethically training and evaluating LLMs to build regulatory guardrails for safe, compliant AI.
+- **[Keepcoding](https://keepcoding.io)** — Professor. Teaching Deep Learning in the AI bootcamp.
+- **[POTLATCH](https://potlatch.press)** — Editor. Independent Spanish-language magazine on slow cooking. No sponsors, no listicles, no shortcuts.
+- **[oekk.photos](https://oekk.photos)** — analog photography notebook. Pentax SP1000, SMC Takumar glass, film, scans, and notes.
 
-1. [**Cellular Automaton Visualization**](https://github.com/lmataa/cellular_automata): A Jupyter notebook illustrating the concept of Wolfram's cellular automaton using Python and Matplotlib to generate an animated GIF.
+---
 
-🔭 This space will soon be populated with exciting learning opportunities 🌱 and meticulously documented projects.
+#### 🛠️ Stack
+
+End-to-end: from CUDA and PyTorch up to agent orchestration, evaluation, and deployment across clouds.
+
+#### 📚 Interests
+
+LLM evaluation & alignment · AI safety · Graph ML · Graph theory · Cognitive science · Metaheuristics · NLP · Formal methods
+
+---
+
+#### 🎓 Background
+
+- **MSc Formal Methods in Computer Science** (honors) — UPM, UAM, UCM, Madrid
+- **BSc Computer Software Engineering** (honors) — UPM, Madrid
+- **Stanford CS236** — Deep Generative Models (2025)
+- **Stanford XCS224W** — Machine Learning with Graphs (2023)
+
+#### 📝 Selected publication
+
+- *Towards a Deep Learning Architecture for Software Models: An Initial Exploration* — JISBD/SISTEDES 2022, UAM.
+
+---
+
+#### 🧭 Previously
+
+- **CTO @ Artgonuts** — AI-driven cultural travel experiences.
+- **Senior ML Engineer @ Fujitsu CoE of Advanced Analytics** — Graph ML, embeddings, knowledge graphs, influence maximization.
+- **NLP Researcher @ UAM (MISO)** · **Research Intern @ UPM Deep Learning Lab** (Teraflow H2020) · **ML Intern @ XMOS** (XCORE.ai, later integrated into the Amazon Alexa toolkit).
+
+---
+
+#### 📂 Public repos
+
+- **[cellular_automata](https://github.com/lmataa/cellular_automata)** — Jupyter notebook on Wolfram's cellular automaton, with Python and Matplotlib generating an animated GIF.
+
+*More public work landing here soon.*
+
+---
+
+> Open to collaboration on interesting AI problems — reach out on [LinkedIn](https://www.linkedin.com/in/lmataa/).
