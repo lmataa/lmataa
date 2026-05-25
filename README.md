@@ -46,7 +46,7 @@ LLM evaluation & alignment · AI safety · Graph ML · Graph theory · Cognitive
 
 #### 🧭 Previously
 
-- **CTO @ Artgonuts** — AI-driven cultural travel experiences.
+- **CTO @ [Artgonuts](https://artgonuts.com)** — AI-driven cultural travel experiences.
 - **Senior ML Engineer @ Fujitsu CoE of Advanced Analytics** — Graph ML, embeddings, knowledge graphs, influence maximization.
 - **NLP Researcher @ UAM (MISO)** · **Research Intern @ UPM Deep Learning Lab** (Teraflow H2020) · **ML Intern @ XMOS** (XCORE.ai, later integrated into the Amazon Alexa toolkit).
 
